@@ -1,2 +1,2 @@
 # PAL-practice
-Hi i am a memmber of this class
+Hi i am a member of this class
